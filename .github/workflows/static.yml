@@ -1,4 +1,5 @@
-#https://github.com/ShabbaboglerosesSimple workflow for deploying static content to GitHub Pages
+#https://- name: GitHub Pages action
+  uses: peaceiris/actions-gh-pages@v4.0.0.com/ShabbaboglerosesSimple workflow for deploying static content to GitHub Pages
 name: Deploy static content to Pages
 
 on:
